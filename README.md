@@ -113,15 +113,37 @@ Critical - [Critical94](https://github.com/Critical94) - Critical#7111
 
 The IOTA wiki is a completely voluntary project put together, maintained, and contributed to by a group of enthusiastic community members.
 Feel free to support our work:
-Action : Créez et maintenez à jour une base de données ou un système de gestion de la connaissance où vous enregistrez les procédures, les tutoriels, et les solutions aux problèmes fréquents. Utilisez des formats accessibles et compréhensibles, comme des guides étape par étape, des FAQ, ou des vidéos explicatives.
 
-Transfert ses connaissances aux membres de l’équipe SPIC
+1. Formation Professionnelle et Éducation Continue
 
-Action : Organisez des sessions de formation ou des ateliers pour l’équipe, où vous partagez les connaissances que vous avez documentées. Soyez également proactif en proposant des moments d’échange un-à-un ou des réunions d’équipe pour discuter de sujets spécifiques liés au travail.
+	•	Participer à des formations spécifiques à votre domaine d’activité pour approfondir vos connaissances techniques ou managériales.
+	•	Suivre des cours en ligne sur des plateformes éducatives pour gagner en compétences dans des domaines complémentaires ou émergents.
 
-Se rend disponible pour aider ses collègues
+2. Mentorat et Coaching
 
-Action : Communiquez clairement votre disponibilité à aider les autres, par exemple en ayant des horaires dédiés pour le support ou en répondant activement aux questions dans les canaux de communication d’équipe. Montrez de l’empathie et de la patience lorsque vous assistez vos collègues, en vous assurant qu’ils comprennent bien les solutions proposées.
+	•	Trouver un mentor au sein de l’organisation qui peut vous guider, partager son expérience et vous offrir des conseils sur mesure pour votre développement professionnel.
+	•	Bénéficier de séances de coaching professionnel pour travailler sur des compétences spécifiques, comme la prise de parole en public, la gestion du temps, ou le leadership.
+
+3. Projets Transversaux et Missions Spécifiques
+
+	•	S’impliquer dans des projets transversaux au sein de l’entreprise, permettant de travailler avec d’autres départements et d’acquérir une vision plus large des activités de l’entreprise.
+	•	Prendre en charge des missions spécifiques ou des initiatives qui sortent de votre cadre habituel de travail pour développer de nouvelles compétences et relever des défis.
+
+4. Retour d’expérience et Auto-évaluation
+
+	•	Organiser des sessions de retour d’expérience (REX) avec votre équipe ou votre manager pour partager les leçons apprises de vos projets ou tâches récentes.
+	•	Réaliser des auto-évaluations régulières pour identifier vos points forts et vos axes d’amélioration, en définissant des objectifs de développement personnel clairs.
+
+5. Veille Technologique et Professionnelle
+
+	•	S’abonner à des revues spécialisées, des blogs, ou des newsletters pour rester à jour sur les tendances et innovations dans votre secteur.
+	•	Participer à des conférences, webinaires, et ateliers pour échanger avec des professionnels du même secteur et découvrir de nouvelles pratiques ou technologies.
+
+6. Réseautage Professionnel
+
+	•	Élargir votre réseau professionnel en participant à des événements de networking, des salons professionnels, ou via des plateformes en ligne comme LinkedIn.
+	•	Rejoindre des associations professionnelles ou des groupes de travail liés à votre domaine d’activité pour échanger avec des pairs et apprendre de leurs expériences.
+
 
 #### iota1qzrmyrnfhfauhv6gax50ncx844uppq4c5dddp3gk99ha0lx5jeqkwk6dapx
 
