@@ -113,30 +113,16 @@ Critical - [Critical94](https://github.com/Critical94) - Critical#7111
 
 The IOTA wiki is a completely voluntary project put together, maintained, and contributed to by a group of enthusiastic community members.
 Feel free to support our work:
-Pour utiliser efficacement ces indicateurs dans la réalisation de vos tâches et contribuer positivement au climat de travail, voici une approche concise pour chacun :
+Action : Créez et maintenez à jour une base de données ou un système de gestion de la connaissance où vous enregistrez les procédures, les tutoriels, et les solutions aux problèmes fréquents. Utilisez des formats accessibles et compréhensibles, comme des guides étape par étape, des FAQ, ou des vidéos explicatives.
 
-### Favorise un atmosphère de travail qui stimule l'esprit d'équipe, la coopération et la communication ouverte et honnête
-- **Action :** Initiez et participez à des réunions d'équipe régulières pour encourager la communication et le partage d'idées. 
+Transfert ses connaissances aux membres de l’équipe SPIC
 
-### Fait preuve d'attention, d'écoute et de respect envers les autres
-- **Action :** Écoutez activement lors des conversations, en donnant pleinement votre attention à l'interlocuteur sans interruptions.
+Action : Organisez des sessions de formation ou des ateliers pour l’équipe, où vous partagez les connaissances que vous avez documentées. Soyez également proactif en proposant des moments d’échange un-à-un ou des réunions d’équipe pour discuter de sujets spécifiques liés au travail.
 
-### Développe des rapports interpersonnels sains avec ses collègues et supérieurs
-- **Action :** Construisez des relations de confiance en étant fiable, honnête et en offrant votre soutien lorsque cela est nécessaire.
+Se rend disponible pour aider ses collègues
 
-### Est solidaire aux membres de l'équipe, tant dans ses succès que ses échecs
-- **Action :** Célébrez les réussites ensemble et offrez votre aide en cas d'échec, en montrant que vous êtes un véritable partenaire d'équipe.
+Action : Communiquez clairement votre disponibilité à aider les autres, par exemple en ayant des horaires dédiés pour le support ou en répondant activement aux questions dans les canaux de communication d’équipe. Montrez de l’empathie et de la patience lorsque vous assistez vos collègues, en vous assurant qu’ils comprennent bien les solutions proposées.
 
-### Partage l'information et son expertise
-- **Action :** Mettez à disposition vos connaissances et vos compétences, en les partageant ouvertement avec l'équipe pour aider à résoudre des problèmes ou à développer de nouvelles idées.
-
-### Participe aux efforts de l'équipe dans la poursuite des objectifs communs
-- **Action :** Contribuez activement aux projets d'équipe, en veillant à ce que vos tâches soient alignées sur les objectifs globaux du groupe.
-
-### Accueille la critique constructive comme un levier de progression
-- **Action :** Quand vous recevez des retours, prenez-les en compte de manière constructive, en les utilisant comme une opportunité d'apprentissage et d'amélioration.
-
-En intégrant ces actions dans votre routine quotidienne, vous contribuerez à créer et maintenir un environnement de travail positif et stimulant, propice à la réussite collective.
 #### iota1qzrmyrnfhfauhv6gax50ncx844uppq4c5dddp3gk99ha0lx5jeqkwk6dapx
 
 <!-- MARKDOWN LINKS & IMAGES -->
