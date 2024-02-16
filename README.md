@@ -113,7 +113,30 @@ Critical - [Critical94](https://github.com/Critical94) - Critical#7111
 
 The IOTA wiki is a completely voluntary project put together, maintained, and contributed to by a group of enthusiastic community members.
 Feel free to support our work:
+Pour utiliser efficacement ces indicateurs dans la réalisation de vos tâches et contribuer positivement au climat de travail, voici une approche concise pour chacun :
 
+### Favorise un atmosphère de travail qui stimule l'esprit d'équipe, la coopération et la communication ouverte et honnête
+- **Action :** Initiez et participez à des réunions d'équipe régulières pour encourager la communication et le partage d'idées. 
+
+### Fait preuve d'attention, d'écoute et de respect envers les autres
+- **Action :** Écoutez activement lors des conversations, en donnant pleinement votre attention à l'interlocuteur sans interruptions.
+
+### Développe des rapports interpersonnels sains avec ses collègues et supérieurs
+- **Action :** Construisez des relations de confiance en étant fiable, honnête et en offrant votre soutien lorsque cela est nécessaire.
+
+### Est solidaire aux membres de l'équipe, tant dans ses succès que ses échecs
+- **Action :** Célébrez les réussites ensemble et offrez votre aide en cas d'échec, en montrant que vous êtes un véritable partenaire d'équipe.
+
+### Partage l'information et son expertise
+- **Action :** Mettez à disposition vos connaissances et vos compétences, en les partageant ouvertement avec l'équipe pour aider à résoudre des problèmes ou à développer de nouvelles idées.
+
+### Participe aux efforts de l'équipe dans la poursuite des objectifs communs
+- **Action :** Contribuez activement aux projets d'équipe, en veillant à ce que vos tâches soient alignées sur les objectifs globaux du groupe.
+
+### Accueille la critique constructive comme un levier de progression
+- **Action :** Quand vous recevez des retours, prenez-les en compte de manière constructive, en les utilisant comme une opportunité d'apprentissage et d'amélioration.
+
+En intégrant ces actions dans votre routine quotidienne, vous contribuerez à créer et maintenir un environnement de travail positif et stimulant, propice à la réussite collective.
 #### iota1qzrmyrnfhfauhv6gax50ncx844uppq4c5dddp3gk99ha0lx5jeqkwk6dapx
 
 <!-- MARKDOWN LINKS & IMAGES -->
