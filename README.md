@@ -114,29 +114,26 @@ Critical - [Critical94](https://github.com/Critical94) - Critical#7111
 The IOTA wiki is a completely voluntary project put together, maintained, and contributed to by a group of enthusiastic community members.
 Feel free to support our work:
 Pour utiliser efficacement ces indicateurs dans la réalisation de vos tâches et contribuer positivement au climat de travail, voici une approche concise pour chacun :
+Démontre la capacité à apprendre les tâches du poste dans un délai satisfaisant et effectue le travail selon les normes et pratiques reconnues pour ce poste
 
-### Favorise un atmosphère de travail qui stimule l'esprit d'équipe, la coopération et la communication ouverte et honnête
-- **Action :** Initiez et participez à des réunions d'équipe régulières pour encourager la communication et le partage d'idées. 
+	•	Action : Engagez-vous dans un apprentissage continu, demandez des retours réguliers sur votre performance, et appliquez les conseils reçus pour ajuster et améliorer votre travail en conformité avec les attentes.
 
-### Fait preuve d'attention, d'écoute et de respect envers les autres
-- **Action :** Écoutez activement lors des conversations, en donnant pleinement votre attention à l'interlocuteur sans interruptions.
+Sait utiliser les outils de travail requis pour le poste occupé
 
-### Développe des rapports interpersonnels sains avec ses collègues et supérieurs
-- **Action :** Construisez des relations de confiance en étant fiable, honnête et en offrant votre soutien lorsque cela est nécessaire.
+	•	Action : Familiarisez-vous avec tous les outils et technologies nécessaires à votre poste. Si nécessaire, suivez des formations spécifiques ou recherchez des ressources en ligne pour renforcer vos compétences.
 
-### Est solidaire aux membres de l'équipe, tant dans ses succès que ses échecs
-- **Action :** Célébrez les réussites ensemble et offrez votre aide en cas d'échec, en montrant que vous êtes un véritable partenaire d'équipe.
+Participe activement aux activités d’équipe
 
-### Partage l'information et son expertise
-- **Action :** Mettez à disposition vos connaissances et vos compétences, en les partageant ouvertement avec l'équipe pour aider à résoudre des problèmes ou à développer de nouvelles idées.
+	•	Action : Soyez proactif lors des réunions d’équipe et des projets collaboratifs. Proposez des idées, offrez votre aide et montrez de l’enthousiasme pour les initiatives d’équipe.
 
-### Participe aux efforts de l'équipe dans la poursuite des objectifs communs
-- **Action :** Contribuez activement aux projets d'équipe, en veillant à ce que vos tâches soient alignées sur les objectifs globaux du groupe.
+Termine les histoires/demandes qui lui sont attribuées dans le temps imparti
 
-### Accueille la critique constructive comme un levier de progression
-- **Action :** Quand vous recevez des retours, prenez-les en compte de manière constructive, en les utilisant comme une opportunité d'apprentissage et d'amélioration.
+	•	Action : Organisez votre travail en priorisant les tâches et en gérant efficacement votre temps pour respecter les délais. Utilisez des outils de gestion de projet pour suivre vos progrès.
 
-En intégrant ces actions dans votre routine quotidienne, vous contribuerez à créer et maintenir un environnement de travail positif et stimulant, propice à la réussite collective.
+Améliore ses connaissances du nouveau système de recouvrement
+
+	•	Action : Investissez du temps pour étudier le nouveau système de recouvrement en participant à des formations, en lisant la documentation disponible et en pratiquant son utilisation. Posez des questions aux collègues ou aux experts pour clarifier les doutes.
+
 #### iota1qzrmyrnfhfauhv6gax50ncx844uppq4c5dddp3gk99ha0lx5jeqkwk6dapx
 
 <!-- MARKDOWN LINKS & IMAGES -->
