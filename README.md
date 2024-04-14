@@ -8,6 +8,7 @@
 [![Issues][issues-shield]][issues-url]
 
 <!-- PROJECT LOGO -->
+Bien sûr, voici une version améliorée de la reformulation :"Les employés de Revenu Québec impliqués dans le projet ont globalement apprécié leur participation, se réjouissant de contribuer à une initiative aussi innovatrice pour leur organisation. Ils ont valorisé l'esprit de collaboration et d'entraide, essentiel pour s'adapter rapidement aux exigences d'un nouveau contexte infonuagique et aux défis afférents.Le projet, bien que porteur d'opportunités, n'était pas dénué de difficultés, notamment un calendrier très serré qui imposait la réalisation simultanée de multiples tâches, rendant les efforts des équipes plus complexes. Cependant, une communication efficace entre les différentes équipes a permis une bonne coordination des activités, facilitant ainsi l'intégration des solutions.Pour conclure, il est important de souligner que certaines équipes ont dû par moments gérer un surplus de travail significatif, exacerbé par un manque de personnel."
 <br />
 <p align="center">
   <a href="https://wiki.iota.org">
